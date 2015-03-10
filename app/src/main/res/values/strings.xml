@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YAWA</string>
+
+    <string name="city_hint_text">Please enter a city (e.g., London)</string>
+    <string name="show_weather_btn_text">Show Weather</string>
+    <string name="show_weather_progress_text">Loading...</string>
+    <string name="show_weather_error_text">Failed to retrieve the weather. Please try again</string>
+    <string name="city_empty_text">Please enter a valid city name</string>
+    <string name="max_temp_text">High Temp: %s</string>
+    <string name="min_temp_text">Low Temp: %s</string>
+</resources>
